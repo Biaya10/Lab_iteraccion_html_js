@@ -1,0 +1,23 @@
+/*### Sección CSS
+> - **Enlazar** CSS con HTML.
+> - **Hacer** que todos los elementos H1 sean de color verde.
+> - **Hacer** la clase "azul" y aplicar el color azul al texto.
+> - **Hacer** un ID igual a "rojo" y aplicar el color rojo al texto.*/
+
+
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+ h1 {
+    color: green;
+  }
+  
+  .azul {
+    color: blue;
+  }
+
+  #rojo{
+    color:red;
+  }
